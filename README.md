@@ -1,6 +1,3 @@
-
-<h1 align="center">Olá, eu sou Matheus! 👋</h1>
-
 <h3 align="center">
   Estudante de Sistemas de Informação | FIAP
 </h3>
